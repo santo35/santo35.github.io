@@ -4071,6 +4071,15 @@ body {
 .cid-rqzeJrhtua .mbr-section-subtitle {
   color: #767676;
 }
+.cid-rqzf55DEsJ {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rqzf55DEsJ .mbr-text,
+.cid-rqzf55DEsJ blockquote {
+  color: #767676;
+}
 .cid-rqzKNqjEEU {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -4087,13 +4096,4 @@ body {
 }
 .cid-rqzKNqjEEU .mbr-author-desc {
   color: #232;
-}
-.cid-rqzf55DEsJ {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rqzf55DEsJ .mbr-text,
-.cid-rqzf55DEsJ blockquote {
-  color: #767676;
 }
