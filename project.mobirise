@@ -38,7 +38,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 18,
+    "uniqCompNum": 19,
     "versionPublish": "4.8.2",
     "favicon": "@PROJECT_PATH@/assets/images/name-128x128.png",
     "noImageResize": "",
@@ -3255,7 +3255,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div><span style=\"font-size: 1rem;\">Upon closer inspection, we see that there seems to be an extra band that pops in at the fermi level as shown in <a href=\"licoo2.html#image1-g\">figure</a>. Curious as to where this band came from, we calculated the wave function of that band at gamma point and visualized it, surprisingly this belongs to a state that eerily looks like 2-dimensional electron gas (2DEG) , furthermore there seems to be spin polarization. Further, calculating the number of electrons in the 2DEG, we see that there is about 0.24 electrons in the 2DEG and about 0.35 electrons near Li.&nbsp;</span></div><div>This seems strange because what this tells us is that monolayer LiCoO2 would have a quantum mechanical ground state which would rather than have an electron from Li given to the CoO2 layer, just give 0.75 of its electron and have the rest to iteself forming the 2DEG like state.</div><div><br></div><div><br></div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div><span style=\"font-size: 1rem;\">Upon closer inspection, we see that there seems to be an extra band that pops in at the fermi level as shown in <a href=\"licoo2.html#image1-g\">figure</a>. Curious as to where this band came from, we calculated the wave function of that band at gamma point and visualized it, surprisingly this belongs to a state that eerily looks like 2-dimensional electron gas (2DEG) , furthermore there seems to be spin polarization. Further, calculating the number of electrons in the 2DEG, we see that there is about 0.24 electrons in the 2DEG and about 0.35 electrons near Li.&nbsp;</span></div><div><span style=\"font-size: 1rem;\"><br></span></div><div>This seems strange because what this tells us is that monolayer LiCoO2 would have a quantum mechanical ground state which would rather than have an electron from Li given to the CoO2 layer, just give 0.75 of its electron and have the rest to iteself forming the 2DEG like state.&nbsp;</div><div><br></div></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-h",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -3292,6 +3292,26 @@
           "_customHTML": "<section class=\"testimonials3\" group=\"Testimonials\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"115\">\n\n      <fieldset type=\"background\" name=\"bg\" parallax>\n        <input type=\"image\" title=\"Background Image\" value=\"../_images/background5.jpg\">\n        <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n        <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n      </fieldset>\n      <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n      <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n      <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\"> \n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"media-content px-3 align-self-center mbr-white py-2\">\n                <p class=\"mbr-text testimonial-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".testimonial-text\">This video shows the quantum band structure of LiCoO2 monolayer when Li is moved away from the CoO2 layer. One can see the Nearly free electron like bands forming more rigidly as the Li is seperated from the CoO2. This shows that the 2 dimensional electron gas like band is actually formed by Li-Li interaction in its elemental state.&nbsp;</p>\n                <p class=\"mbr-author-name pt-4 mb-2 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-author-name\">Movement of Li on top of CoO2 layer</p>\n                <p class=\"mbr-author-desc mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-author-desc\">Green - Li, Blue - Co, Red - O</p>\n            </div>\n\n            <div class=\"mbr-figure pl-lg-5\" mbr-style=\"{'width':mediaSize + '%'}\">\n              <img src=\"@PROJECT_PATH@/assets/images/ezgif.com-video-to-gif.gif\" alt title>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rqzKNqjEEU",
           "_anchor": "testimonials3-7",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Video above shows the effect of moving Li off the CoO2 layer.&nbsp;<div></div></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-i",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rqEu6Voxl6",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
