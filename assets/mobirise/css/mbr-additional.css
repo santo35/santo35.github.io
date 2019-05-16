@@ -3820,6 +3820,57 @@ body {
 .cid-rqEn81U2zi blockquote {
   color: #767676;
 }
+.cid-rqEIhtCLop {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #ffffff;
+}
+.cid-rqEIhtCLop .image-block {
+  margin: auto;
+}
+.cid-rqEIhtCLop figcaption {
+  position: relative;
+}
+.cid-rqEIhtCLop figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rqEIhtCLop .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rqEJH410te {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rqEJH410te .mbr-text,
+.cid-rqEJH410te blockquote {
+  color: #767676;
+}
+.cid-rqEKbs0uwC {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background: #ffffff;
+}
+.cid-rqEKbs0uwC .image-block {
+  margin: auto;
+}
+.cid-rqEKbs0uwC figcaption {
+  position: relative;
+}
+.cid-rqEKbs0uwC figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rqEKbs0uwC .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rqzKNqjEEU {
   padding-top: 0px;
   padding-bottom: 0px;
