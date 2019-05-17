@@ -4030,6 +4030,36 @@ body {
 .cid-rqGnJ2VdNT blockquote {
   color: #767676;
 }
+.cid-rqGxCRSsp2 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #ffffff;
+}
+.cid-rqGxCRSsp2 .image-block {
+  margin: auto;
+}
+.cid-rqGxCRSsp2 figcaption {
+  position: relative;
+}
+.cid-rqGxCRSsp2 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rqGxCRSsp2 .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rqGxDUUXSC {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rqGxDUUXSC .mbr-text,
+.cid-rqGxDUUXSC blockquote {
+  color: #767676;
+}
 .cid-rqGtxIPyLl {
   padding-top: 30px;
   padding-bottom: 30px;
